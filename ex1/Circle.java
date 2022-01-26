@@ -11,7 +11,6 @@ public class Circle {
     public Circle(int x, int y, double radius){
         setX(x);
         setY(y);
-        setRadius(radius);
     }
 
     public int getX() {
